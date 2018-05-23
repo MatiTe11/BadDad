@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/matit_000/Documents/GitHub/Bath/Bath/Wanna/Content/background.png</File>
+    <File>C:/Users/matit_000/Documents/GitHub/Bath/Bath/Wanna/Content/water.png</File>
+    <File>C:/Users/matit_000/Documents/GitHub/Bath/Bath/Wanna/Content/flyingFatherS.png</File>
+    <File>C:/Users/matit_000/Documents/GitHub/Bath/Bath/Wanna/Content/bathtube3.png</File>
+    <File>C:/Users/matit_000/Documents/GitHub/Bath/Bath/Wanna/Content/Bathwithbaby.png</File>
+    <File>C:/Users/matit_000/Documents/GitHub/Bath/Bath/Wanna/Content/battlefight1H.png</File>
+    <File>C:/Users/matit_000/Documents/GitHub/Bath/Bath/Wanna/Content/battlefight2H.png</File>
+    <File>C:/Users/matit_000/Documents/GitHub/Bath/Bath/Wanna/Content/battlefight3H.png</File>
+    <File>C:/Users/matit_000/Documents/GitHub/Bath/Bath/Wanna/Content/battlefight4H.png</File>
+    <File>C:/Users/matit_000/Documents/GitHub/Bath/Bath/Wanna/Content/bathtube2en.png</File>
+    <File>C:/Users/matit_000/Documents/GitHub/Bath/Bath/Wanna/Content/Battlebar.png</File>
+    <File>C:/Users/matit_000/Documents/GitHub/Bath/Bath/Wanna/Content/battlecursor.png</File>
+    <File>C:/Users/matit_000/Documents/GitHub/Bath/Bath/Wanna/Content/FlyingFather2S.png</File>
+    <File>C:/Users/matit_000/Documents/GitHub/Bath/Bath/Wanna/Content/Startscreen.png</File>
+    <File>C:/Users/matit_000/Documents/GitHub/Bath/Bath/Wanna/Content/Gameover screen.png</File>
+    <File>C:/Users/matit_000/Documents/GitHub/Bath/Bath/Wanna/Content/music.wav</File>
+    <File>C:/Users/matit_000/Documents/GitHub/Bath/Bath/Wanna/Content/daddy1.wav</File>
+    <File>C:/Users/matit_000/Documents/GitHub/Bath/Bath/Wanna/Content/daddy3.wav</File>
+    <File>C:/Users/matit_000/Documents/GitHub/Bath/Bath/Wanna/Content/ohhdaddy.wav</File>
+    <File>C:/Users/matit_000/Documents/GitHub/Bath/Bath/Wanna/Content/ohhdaddy2.wav</File>
+    <File>C:/Users/matit_000/Documents/GitHub/Bath/Bath/Wanna/Content/ukhhhyh.wav</File>
+    <File>C:/Users/matit_000/Documents/GitHub/Bath/Bath/Wanna/Content/Score.spritefont</File>
+    <File>C:/Users/matit_000/Documents/GitHub/Bath/Bath/Wanna/Content/tehno.wav</File>
+  </SourceFiles>
+</SourceFileCollection>
